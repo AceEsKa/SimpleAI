@@ -1,5 +1,6 @@
-school assignment
+University assignment
 
+Description:
 A program that "learns" by asking the user questions presents a fundamental problem
 creation of artificial intelligence. The program uses binary as its main data structure
 decision tree (binary decision tree). The nodes (nodes) of the tree having children contain vo
